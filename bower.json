@@ -1,0 +1,30 @@
+{
+  "name": "chinese_school",
+  "homepage": "https://github.com/SergeyChmil/chinese_school",
+  "authors": [
+    "SergeyTchmil <tchmil@syneforge.com>"
+  ],
+  "description": "Site for online studying of chinese language",
+  "main": "index.html",
+  "keywords": [
+    "Online",
+    "chinese",
+    "studying",
+    "courses",
+    "chinese",
+    "language"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-social": "^5.0.0"
+  }
+}
